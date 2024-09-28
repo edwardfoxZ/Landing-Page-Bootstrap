@@ -1,0 +1,34 @@
+@media screen and (max-width: 1024px) {
+    .responsive_submit_bu {
+        width: 70%;
+    }
+
+    .page2-container {
+        width: 950px;
+    }
+    .res_direction{
+        align-items: center;
+        justify-content: center;
+        width: 50%;
+    }
+
+    .res_page4 {
+        width: 80%;
+    }
+    .res_input_page5 {
+        width: 200px;
+    }
+    .res_Ready_to_get_started {
+        width: 100%;
+    }
+
+    .input-size {
+        width: 30rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    body{
+        width: 180%;
+    }
+}

@@ -1,0 +1,82 @@
+/* Nav */
+.navbar {
+    position: fixed;
+    z-index: 1030;
+    top: 0;
+}
+.navbarColor {
+    background-color: transparent;
+}
+.navbarColorChange {
+    background-color: white;
+}
+/* Page1 */
+.page1 {
+    width: 100%;
+    height: 120% !important;
+    background: url('https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+.input-size {
+    width: 40%;
+}
+.form-control{
+    width: 100%;
+}
+.form {
+    width: 100%;
+    height: 100%;
+}
+.form-input-email {
+    width: 100%;
+    height: 100%;
+}
+
+/* Page2 */
+
+.page2 {
+    width: 100%;
+    height: 50%;
+    background-color: aliceblue;
+}
+
+/* Page3 */
+
+.page3 {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.Img1-container {
+    width: 100%;
+    height: 40%;
+}
+.Container_page3 {
+    width: 100%;
+    height: 40%;
+}
+
+/* Page4 */
+
+.page4 {
+    width: 100%;
+    height: 50%;
+    background-color: whitesmoke;
+}
+
+.Img1_page4 {
+    width: 200px;
+    height: 200px;
+}
+
+/* Page5 */
+
+.Ready_to_get_started{
+    width: 100%;
+    height: 100%;
+    background: url('https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
